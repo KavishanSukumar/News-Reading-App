@@ -1,0 +1,5 @@
+//ALAN STUDIO VOICE API
+https://studio.alan.app/projects
+
+//NEWS API
+https://newsapi.org/
